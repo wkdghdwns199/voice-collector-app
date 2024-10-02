@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'KIMMFont';
+    src: local('KIMMFont'), url('../public/KIMM_BOLD.TTF') format('truetype');
+    font-weight: bold;
+    font-style: bold;
+  }
+  

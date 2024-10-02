@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f77d17a.css",
+    "main.js": "/static/js/main.e221b7ca.js",
+    "static/media/KIMM_BOLD.TTF": "/static/media/KIMM_BOLD.e2c9f2e4cb62ca27fea5.TTF",
+    "index.html": "/index.html",
+    "main.2f77d17a.css.map": "/static/css/main.2f77d17a.css.map",
+    "main.e221b7ca.js.map": "/static/js/main.e221b7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f77d17a.css",
+    "static/js/main.e221b7ca.js"
+  ]
+}
